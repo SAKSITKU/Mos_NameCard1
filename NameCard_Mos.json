@@ -1,7 +1,25 @@
-{
-  "name": "Dr. Somsawut Nindam, Ph.D.",
-  "title": "Internet Programming Lecturer",
-  "phone": "+66 123 456 789",
-  "email": "nindam@example.com"
-  
-}
+[
+  {
+    "name": "Mr. Saksit Kumkeaw",
+    "title": "Internet Programming Lecturer",
+    "phone": "+66 98 654 3212",
+    "email": "Saksit.khum@ku.th",
+    "image": "saksit.jpg"
+    
+  },
+  {
+    "name": "Mr. Kantrapong Kutbangyang",
+    "title": "Internet Programming Lecturer",
+    "phone": "+66 95 558 7100",
+    "email": "Kantrapong.k@ku.th",
+    "image": "kantrapong.jpg"
+  },
+  {
+    "name": "Mr. Surasit Ainwiset",
+    "title": "Internet Programming Lecturer",
+    "phone": "+66 85 478 7996",
+    "email": "Surasit.a@ku.th",
+    "image": "surasit.jpg"
+  }
+]
+ 
